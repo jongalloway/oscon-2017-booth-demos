@@ -15,3 +15,8 @@
 1. Scroll to the line that reads `<h2>Application uses</h2>` and change it to something else (maybe your name).
 1. Save the file.
 1. Switch back to the browser and refresh to see your changes.
+
+## Razor Pages
+
+1. Open the *RazorPagesSample* directory in Visual Studio Code.
+ > If not present, this sample can be cloned from https://github.com/damianedwards/razorpagessample or explored online.

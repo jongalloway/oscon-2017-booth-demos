@@ -10,3 +10,9 @@
    ```
    git clone https://github.com/jongalloway/oscon-2017-booth-demos.git
    ```
+
+1. Clone the *RazorPagesSample* demo to the desktop:
+
+   ```
+   git clone https://github.com/damianedwards/razorpagessample.git
+   ```
