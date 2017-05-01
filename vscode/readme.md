@@ -22,7 +22,7 @@
  1. Save the file and note that the editor size changes immediately.
  1. Reset your user settings changes by selecting the entire contents on the right side (`settings.json`) and deleting them.
  
- ## Integrated Markdown editor
+ ## Markdown Preview
 
  1. Open this repository in Visual Studio Code.
  1. Open the README.md file in the root.
