@@ -23,5 +23,16 @@
  1. Reset your user settings changes by selecting the entire contents on the right side (`settings.json`) and deleting them.
  
  ## Integrated Markdown editor
+
+ 1. Open this repository in Visual Studio Code.
+ 1. Open the README.md file in the root.
+ 1. Open Split view using `Ctrl-\` or the split screen icon in the upper right hand corner.
+ 1. Show the Markdown preview using `Ctrl-Shift-V` or using the preview icon in the upper right hand corner.
+ 1. Demonstrate that scrolling is synchronized between the two panes.
  
  ## Source Control integration
+
+1. Make some simple edits to this file and observe that the edits are previewed as you make them.
+1. Click on the Source Control view icon in the upper left (shortcut is `Ctrl-Shift-G`).
+1. Show the file differences by clicking on readme.md in the *Changes* list.
+1. Undo all changes by clicking the `...` button and selecting `Discard All Changes` from the list.
